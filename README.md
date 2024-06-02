@@ -190,6 +190,8 @@ Project Link: [https://github.com/sebasinmas/Dec-ibel](https://github.com/sebasi
 
 [discord]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [discord-url]: https://discord.com/
+[typescript]: https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF
+[typescript-url]: https://www.typescriptlang.org/
 [contributors-shield]: https://img.shields.io/github/contributors/sebasinmas/Dec-ibel.svg?style=for-the-badge
 [contributors-url]: https://github.com/sebasinmas/Dec-ibel/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sebasinmas/Dec-ibel.svg?style=for-the-badge
@@ -203,8 +205,6 @@ Project Link: [https://github.com/sebasinmas/Dec-ibel](https://github.com/sebasi
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sebastianbeni
 [product-screenshot]: images/screenshot.png
-[typescript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
-[typescript-url]: https://www.typescriptlang.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
