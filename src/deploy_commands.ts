@@ -1,12 +1,11 @@
 import { REST, Routes, SlashCommandBuilder } from "discord.js";
 import { config } from "./config";
-import { commands } from "./commands";
+import { commands } from "./commands/_index";
 
 const commandsData: SlashCommandBuilder[] = Object.values(commands).map((command) => command.data);
 
 const rest: REST = new REST({ version: '10' }).setToken(config.DISCORD_TOKEN);
 
-//type is similar to struct? 
 type DeplyCommandsProps = {
     guildId: string;
 }

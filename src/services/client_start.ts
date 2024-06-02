@@ -1,6 +1,6 @@
 import { Client } from "discord.js";
 import { deployCommands } from "../deploy_commands";
-import { commands } from "../commands";
+import { commands } from "../commands/_index";
 import { config } from "../config";
 
 export default function clientStart() {
@@ -9,7 +9,11 @@ export default function clientStart() {
     });
     
     client.once('ready', () => {
-        console.log(`Client is ready`);
+        console.log(`Client is ready!`);
+        client.guilds.cache.forEach(async (guild) => {
+            await deployCommands({ guildId: guild.id });
+        });
+
     })
     
     client.on("guildCreate", async (guild) => {
