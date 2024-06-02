@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sebasinmas/Dec-ibel">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/decibel_logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Dec-ibel</h3>
@@ -81,9 +81,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sebasinmas`, `Dec-ibel`, `twitter_handle`, `sebastianbeni`, `email_client`, `email`, `Dec-ibel`, `project_description`
+You can invite him to your discord server to try all his commands!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,14 +91,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![TypeScript][typescript]][typescript-url]
+* [![Discord][discord]][discord-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,6 +187,9 @@ Project Link: [https://github.com/sebasinmas/Dec-ibel](https://github.com/sebasi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[discord]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: https://discord.com/
 [contributors-shield]: https://img.shields.io/github/contributors/sebasinmas/Dec-ibel.svg?style=for-the-badge
 [contributors-url]: https://github.com/sebasinmas/Dec-ibel/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sebasinmas/Dec-ibel.svg?style=for-the-badge
@@ -206,8 +203,8 @@ Project Link: [https://github.com/sebasinmas/Dec-ibel](https://github.com/sebasi
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sebastianbeni
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
+[typescript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
+[typescript-url]: https://www.typescriptlang.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
