@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sebasinmas/Best-README-Template">
+  <a href="https://github.com/sebasinmas/Dec-ibel">
     <img src="assets/decibel_logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
